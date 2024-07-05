@@ -395,6 +395,6 @@ https://survey.zohopublic.com/zs/KI0DHJ
 
 ## Post test link ( Using RPS Lab machine )
 <pre>
-https://rpsconsulting116.examly.io/contest/publicU2FsdGVkX1/JCYJ6pgzhyRDN6KxFZZVDm8PAO5DQ1bAAZsl8h8W19j5WVwJ9CvyMbq6DIOfxTZ41/oNdinEYhg==  
+https://rpsconsulting116.examly.io/contest/public?U2FsdGVkX1/JCYJ6pgzhyRDN6KxFZZVDm8PAO5DQ1bAAZsl8h8W19j5WVwJ9CvyMbq6DIOfxTZ41/oNdinEYhg==  
 </pre>
 
